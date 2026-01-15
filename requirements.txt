@@ -1,0 +1,7 @@
+google-genai
+pinecone
+psycopg2
+python-dotenv
+langchain-text-splitters
+numpy
+pandas

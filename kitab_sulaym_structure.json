@@ -1,0 +1,39 @@
+[
+    {
+        "book_information": {
+            "book_id": "kitab_sulaym",
+            "book_name": "Kitab Sulaym ibn Qays",
+            "author_name": "Sulaym ibn Qays Al-Hilali",
+            "language": "english"
+        },
+        "preface": {
+            "preface_text": "",
+            "preface_hadith": ""
+        },
+        "introduction": "",
+        "hadiths": [
+            {
+                "hadith_no": 1,
+                "hadith_text": "",
+                "page_start": 6,
+                "page_end": 9,
+                "page_range": "6-9",
+                "char_count": 6365,
+                "word_count": 1182,
+                "extracted_at": "2025-10-26T21:24:22.839229",
+                "section_type": "hadith"
+            },
+            {
+                "hadith_no": 2,
+                "hadith_text": "",
+                "page_start": 10,
+                "page_end": 15,
+                "page_range": "10-15",
+                "char_count": 7756,
+                "word_count": 1296,
+                "extracted_at": "2025-10-26T21:24:22.839229",
+                "section_type": "hadith"
+            }
+        ]
+    }
+]
