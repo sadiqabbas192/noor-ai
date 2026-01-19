@@ -11,4 +11,4 @@ app.include_router(api_router)
 # The prompt only asked for specific routes.
 
 if __name__ == "__main__":
-    uvicorn.run("api:app", host="0.0.0.0", port=8000, reload=DEBUG_MODE)
+    uvicorn.run("api:app", host="0.0.0.0", port=8002, reload=DEBUG_MODE)
